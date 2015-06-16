@@ -1,0 +1,18 @@
+Partlist exported from /Users/Jrodriguez/Desktop/Capstone/Custom Dash Board/Custom_DUE/Arduino_DUE_X_V02d-2Layer.sch at 3/24/15 1:07 PM
+
+Part  Value               Device                 Package                Description                                                                   EEE-FPV100UAR MF MPN OC_FARNELL OC_NEWARK SMD      TP_SIGNAL_NAME
+                                                                                                                                      
+BR1   NM                  J0402                  J0402                  Three terminal jumper made from two 0402, 0603, 0805, etc.                                                                                     
+                                                                                                  
+                                                                                                                   
+ERASE                     MYSMD_PB157            SMD_157SW   
+                                                                                                                                                          
+                                                                                                                  
+                                                                                    
+                                                                                                                                                            
+                                                                                                                                                          
+Y1    12MHz KX-7 20pF     CRYSTAL-3.2-2.5        CRYSTAL-3.2-2.5                                                                                                                                                       
+Y2    32.768Khz           RESONATOR_EPSON_FC_145 RESONATOR_EPSON_FC_145                                                                                                                                                
+Y4    16MHz KX-7 20pF     CRYSTAL-3.2-2.5        CRYSTAL-3.2-2.5  
+
+                                                                                                                                     

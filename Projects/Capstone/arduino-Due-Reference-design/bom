@@ -1,0 +1,52 @@
+<b>Partlist exported from /Users/Jrodriguez/Desktop/Capstone/arduino-Due-Reference-design/scrap.sch at 5/18/15 11:19 PM</b>
+<p>
+<table>
+<tr><td><b>Part</b></td><td><b>Value</b></td><td><b>Device</b></td><td><b>Package</b></td><td><b>Description</b></td><td><b></b></td></tr>
+<tr><td>BR1</td><td>NM</td><td>J0402</td><td>J0402</td><td>Three terminal jumper made from two 0402, 0603, 0805, etc.</td><td></td></tr>
+<tr><td>C1</td><td>10u</td><td>CPOL-EUSMCB</td><td>SMC_B</td><td>POLARIZED CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C2</td><td>10u</td><td>CPOL-EUSMCB</td><td>SMC_B</td><td>POLARIZED CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C3</td><td>10u</td><td>CPOL-EUSMCB</td><td>SMC_B</td><td>POLARIZED CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C4</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C5</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C6</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C7</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C8</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C9</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C10</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C11</td><td>10u</td><td>CPOL-EUSMCB</td><td>SMC_B</td><td>POLARIZED CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C12</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C13</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C14</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C15</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C16</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C17</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C18</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C19</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C21</td><td>22p</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C22</td><td>22p</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C23</td><td>22pF_NM</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C24</td><td>22pF_NM</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C25</td><td>22p</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C29</td><td>10u</td><td>CPOL-EUSMCB</td><td>SMC_B</td><td>POLARIZED CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C30</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C32</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C33</td><td>10u</td><td>CPOL-EUSMCB</td><td>SMC_B</td><td>POLARIZED CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>C34</td><td>100n</td><td>C-EUC0402</td><td>C0402</td><td>CAPACITOR, European symbol</td><td></td></tr>
+<tr><td>ERASE</td><td></td><td>MYSMD_PB157</td><td>SMD_157SW</td><td></td><td></td></tr>
+<tr><td>IC4</td><td>NCP1117ST33T3G -3V3</td><td>MC33269ST-3.3T3</td><td>SOT223</td><td>Adjustable Output Low Dropout Voltage Regulator 800 mA</td><td></td></tr>
+<tr><td>JR1</td><td>0R</td><td>R-EU_R0402</td><td>R0402</td><td>RESISTOR, European symbol</td><td></td></tr>
+<tr><td>L1</td><td>MH2029-300Y</td><td>WE-CBF_0805</td><td>0805</td><td>SMD EMI Suppression Ferrite Beads</td><td></td></tr>
+<tr><td>L2</td><td>MH2029-300Y</td><td>WE-CBF_0805</td><td>0805</td><td>SMD EMI Suppression Ferrite Beads</td><td></td></tr>
+<tr><td>L3</td><td>MH2029-300Y</td><td>WE-CBF_0805</td><td>0805</td><td>SMD EMI Suppression Ferrite Beads</td><td></td></tr>
+<tr><td>L5</td><td>MH2029-300Y</td><td>WE-CBF_0805</td><td>0805</td><td>SMD EMI Suppression Ferrite Beads</td><td></td></tr>
+<tr><td>R4</td><td>100K</td><td>R-EU_R0402</td><td>R0402</td><td>RESISTOR, European symbol</td><td></td></tr>
+<tr><td>R5</td><td>39R 1%</td><td>R-EU_R0402</td><td>R0402</td><td>RESISTOR, European symbol</td><td></td></tr>
+<tr><td>R6</td><td>39R 1%</td><td>R-EU_R0402</td><td>R0402</td><td>RESISTOR, European symbol</td><td></td></tr>
+<tr><td>R7</td><td>6k8 1%</td><td>R-EU_R0603</td><td>R0603-ROUND</td><td>RESISTOR, European symbol</td><td></td></tr>
+<tr><td>R8</td><td>0R_NM</td><td>R-EU_R0402</td><td>R0402</td><td>RESISTOR, European symbol</td><td></td></tr>
+<tr><td>R99</td><td>10K</td><td>R-EU_R0402</td><td>R0402</td><td>RESISTOR, European symbol</td><td></td></tr>
+<tr><td>T3</td><td>FDN340P</td><td>PMOSSOT23</td><td>SOT-23</td><td>MOS FET</td><td></td></tr>
+<tr><td>U1</td><td>ATSAM3X8EA-AU</td><td>ATSAM3X/AAU</td><td>LQFP144</td><td></td><td></td></tr>
+<tr><td>Y1</td><td>12MHz KX-7 20pF</td><td>CRYSTAL-3.2-2.5</td><td>CRYSTAL-3.2-2.5</td><td></td><td></td></tr>
+<tr><td>Y2</td><td>32.768Khz</td><td>RESONATOR_EPSON_FC_145</td><td>RESONATOR_EPSON_FC_145</td><td></td><td></td></tr>
+</table>
